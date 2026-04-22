@@ -7,7 +7,7 @@ My background is in psychological science and organisational psychology. I work 
 ## Published
 
 - **[The IQ-Motion Confound in Multi-Site Autism fMRI May Be Inflated by Site-Correlated Measurement Uncertainty](https://arxiv.org/abs/2604.12294)**
-  Probability Cloud Regression applied to ABIDE-I. OLS overestimates the IQ-motion confound by 4.67x. n=935 across 19 sites. Endorsed by Russell Poldrack (Stanford). arXiv:2604.12294 [q-bio.QM, stat.AP].
+  Probability Cloud Regression applied to ABIDE-I. OLS overestimates the IQ-motion confound by 4.67x. n=935 across 19 sites. arXiv:2604.12294 [q-bio.QM, stat.AP]. 
 
 ## Manuscripts in Production
 
